@@ -1,4 +1,5 @@
-build:
+jobs:
+  build:
   docker:
     worker: Dockerfile
 run:
